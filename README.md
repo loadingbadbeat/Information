@@ -22,3 +22,8 @@
 <b>Popular Network Protocols- </b>
 
 ![image](https://github.com/loadingbadbeat/Information/assets/45952458/7b16305b-8eed-4ec4-8a17-c228c29f220d)
+
+
+<b>OSI Model</b>
+
+![image](https://github.com/loadingbadbeat/Information/assets/45952458/076a023f-e139-42b4-93a1-8ff142e78085)
