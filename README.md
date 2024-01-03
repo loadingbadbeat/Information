@@ -17,3 +17,8 @@
 <b>Malware and Ransomware</b>
 
 ![1703045083837](https://github.com/loadingbadbeat/Information/assets/45952458/36e7098a-3b35-4e34-ab28-cca11ea03574)
+
+
+<b>Popular Network Protocols- </b>
+
+![image](https://github.com/loadingbadbeat/Information/assets/45952458/7b16305b-8eed-4ec4-8a17-c228c29f220d)
