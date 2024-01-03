@@ -14,4 +14,6 @@
 
 ![Incident Management Workgflow](https://github.com/loadingbadbeat/Information/assets/45952458/1db56752-b8f5-470f-b80f-2ad45d66b5c4)
 
+<b>Malware and Ransomware</b>
 
+![1703045083837](https://github.com/loadingbadbeat/Information/assets/45952458/36e7098a-3b35-4e34-ab28-cca11ea03574)
