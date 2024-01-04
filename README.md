@@ -32,3 +32,8 @@
 <b>Firewall vs Antivirus</b> 
 
 ![Firewall-vs-AV](https://github.com/loadingbadbeat/Information/assets/45952458/9380146a-1b71-4266-82d0-b6e284e276ab)
+
+<b>Iphone Hacks</b>
+
+![apple-spywre](https://github.com/loadingbadbeat/Information/assets/45952458/bf6cb25d-bb76-468a-a077-1447db951f9d)
+
