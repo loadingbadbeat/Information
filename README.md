@@ -37,3 +37,10 @@
 
 ![apple-spywre](https://github.com/loadingbadbeat/Information/assets/45952458/bf6cb25d-bb76-468a-a077-1447db951f9d)
 
+<b>OSI Layers and Attack</b>
+
+![osi layers attacks](https://github.com/loadingbadbeat/Information/assets/45952458/3a9021b1-02f8-483c-8b7c-ddf51be43cd0)
+
+
+
+
