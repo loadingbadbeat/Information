@@ -27,3 +27,7 @@
 <b>OSI Model</b>
 
 ![image](https://github.com/loadingbadbeat/Information/assets/45952458/076a023f-e139-42b4-93a1-8ff142e78085)
+
+
+Firewall vs Antivirus 
+![Firewall-vs-AV](https://github.com/loadingbadbeat/Information/assets/45952458/9380146a-1b71-4266-82d0-b6e284e276ab)
