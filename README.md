@@ -41,6 +41,11 @@
 
 ![osi layers attacks](https://github.com/loadingbadbeat/Information/assets/45952458/3a9021b1-02f8-483c-8b7c-ddf51be43cd0)
 
+<b>Attacks vector</b>
+
+![attack](https://github.com/loadingbadbeat/Information/assets/45952458/5fea16f4-eee8-4931-a9e7-9265d82be691)
+
+
 
 
 
